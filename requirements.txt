@@ -1,0 +1,12 @@
+openai
+mistralai
+huggingface_hub
+typer
+rich
+python-dotenv
+# Stage-2: ArmoRM reward scoring
+torch
+transformers==4.41.2
+tokenizers==0.19.1
+accelerate
+sentencepiece
